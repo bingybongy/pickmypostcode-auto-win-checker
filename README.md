@@ -1,3 +1,5 @@
+This fork exists purely to fix the `crontab` entry
+
 # Pickmypostcode Auto Win Checker
 
 - Automates the login process to the Pick My Postcode website using Selenium.
